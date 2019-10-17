@@ -142,7 +142,7 @@ namespace PathFinderWPF
         /// </summary>
         /// <param name="startCell"></param>
         /// <param name="endCell"></param>
-        public void RetracePath(Cell startCell, Cell endCell)
+        public List<Cell> RetracePath(Cell startCell, Cell endCell)
         {
             var path = new List<Cell>();
             var currentCell = endCell;
@@ -155,6 +155,7 @@ namespace PathFinderWPF
 
             path.Reverse();
             this.path = path;
+            return path;
         }
     }
 }
