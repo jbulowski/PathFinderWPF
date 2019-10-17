@@ -96,8 +96,8 @@ namespace PathFinderWPF
         {
             findPathAttempt++;
 
-            Cell startCell = grid.startCell;
-            Cell endCell = grid.endCell;
+            Cell startCell = grid.cells[grid.startCell.row, grid.startCell.column]; ;
+            Cell endCell = grid.cells[grid.endCell.row, grid.endCell.column];
 
             // contains cells that may lead to end cell
             var openSet = new List<Cell>();
