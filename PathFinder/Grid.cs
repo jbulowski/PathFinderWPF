@@ -32,11 +32,6 @@ namespace PathFinderWPF
         public Cell[,] cells;
 
         /// <summary>
-        /// Path build from cells parent
-        /// </summary>
-        public List<Cell> path;
-
-        /// <summary>
         /// Creates the grid representation
         /// </summary>
         /// <param name="row_length">The amount of rows</param>
@@ -154,7 +149,6 @@ namespace PathFinderWPF
             }
 
             path.Reverse();
-            this.path = path;
             return path;
         }
     }
