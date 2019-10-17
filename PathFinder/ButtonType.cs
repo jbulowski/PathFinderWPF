@@ -13,7 +13,7 @@
         Start,
 
         /// <summary>
-        /// This cell is a wall
+        /// This cell is an obsticle i.e. not walkable
         /// </summary>
         Obsticle,
 
