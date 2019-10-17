@@ -16,10 +16,7 @@
         /// <summary>
         /// Holds the ButtonType e.g. Start, End, Wall
         /// </summary>
-        public ButtonType type
-        {
-            get; set;
-        }
+        public ButtonType type;
 
         /// <summary>
         /// Holds distance from start Cell
