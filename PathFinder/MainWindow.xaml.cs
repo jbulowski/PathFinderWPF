@@ -54,7 +54,7 @@ namespace PathFinderWPF
                     button.Content = "End";
             }
         }
-
+        
         /// <summary>
         /// Handles a button click event
         /// </summary>
@@ -122,41 +122,7 @@ namespace PathFinderWPF
                 // path found
                 if (currentCell == endCell || currentCell.type == ButtonType.End)
                 {
-                    grid.RetracePath(startCell, endCell);
-
-                    foreach (Cell cell in grid.cells)
-                    {
-                        if (grid.path != null)
-                        {
-                            if (grid.path.Contains(cell))
-                            {
-
-                                // Removing end cell from path
-                                // so it doesnt get animated
-                                grid.path.Remove(endCell);
-                                
-                                foreach (Button button in buttons)
-                                {
-
-                                    // Using full namespace, because it collides
-                                    // with the PathFinderWPF.Grid class
-                                    var row = System.Windows.Controls.Grid.GetRow(button);
-                                    var column = System.Windows.Controls.Grid.GetColumn(button);
-
-                                    foreach (Cell pathCell in grid.path)
-                                    {
-                                        if (pathCell.row == row && pathCell.column == column)
-                                        {
-                                            button.Background = Brushes.Red;
-                                            button.Content = findPathAttempt;
-
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-
+                    AnimateUI(startCell, endCell);
                     return;
                 }
 
@@ -220,6 +186,44 @@ namespace PathFinderWPF
 
             FindPathButton.Content = "Find Path";
             ResetButton.Content = "Reset";
+        }
+
+        private void AnimateUI(Cell startCell, Cell endCell)
+        {
+            grid.RetracePath(startCell, endCell);
+
+            foreach (Cell cell in grid.cells)
+            {
+                if (grid.path != null)
+                {
+                    if (grid.path.Contains(cell))
+                    {
+
+                        // Removing end cell from path
+                        // so it doesnt get animated
+                        grid.path.Remove(endCell);
+
+                        foreach (Button button in buttons)
+                        {
+
+                            // Using full namespace, because it collides
+                            // with the PathFinderWPF.Grid class
+                            var row = System.Windows.Controls.Grid.GetRow(button);
+                            var column = System.Windows.Controls.Grid.GetColumn(button);
+
+                            foreach (Cell pathCell in grid.path)
+                            {
+                                if (pathCell.row == row && pathCell.column == column)
+                                {
+                                    button.Background = Brushes.Red;
+                                    button.Content = findPathAttempt;
+
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }

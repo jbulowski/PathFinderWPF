@@ -58,425 +58,425 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="0" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="0" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="0" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="1" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="1" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="1" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="2" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="2" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="2" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="3" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="3" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="3" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="4" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="4" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="4" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="5" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="5" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="5" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="6" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="6" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="6" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="7" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="7" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="7" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="8" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="8" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="8" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="9" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="9" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="9" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="10" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="10" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="10" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="11" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="11" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="11" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="12" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="12" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="12" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="13" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="13" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="13" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="14" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="14" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="14" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="15" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="15" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="15" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="16" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="16" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="16" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="17" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="17" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="17" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="18" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="18" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="18" />
 
-        <Button Click="Button" Grid.Column="0" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="1" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="2" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="3" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="4" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="5" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="6" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="7" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="8" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="9" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="10" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="11" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="12" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="13" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="14" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="15" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="16" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="17" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="18" Grid.Row="19" />
-        <Button Click="Button" Grid.Column="19" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="0" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="1" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="2" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="3" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="4" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="5" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="6" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="7" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="8" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="9" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="10" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="11" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="12" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="13" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="14" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="15" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="16" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="17" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="18" Grid.Row="19" />
+        <Button Click="Button" Background="LightGray" BorderThickness="0.5" Grid.Column="19" Grid.Row="19" />
 
         <Button Click="FindPath" x:Name="FindPathButton" Content="Find Path" Grid.Column="11" Grid.Row="21" Grid.ColumnSpan="4" />
         <Button Click="Reset" x:Name="ResetButton" Content="Reset" Grid.Column="5" Grid.Row="21" Grid.ColumnSpan="4" />
