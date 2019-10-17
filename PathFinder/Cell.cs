@@ -42,8 +42,6 @@
         /// <summary>
         /// Checks if a cell is walkable
         /// </summary>
-        /// <param name="cell"></param>
-        /// <returns></returns>
         public bool IsCellWalkable
         {
             get
