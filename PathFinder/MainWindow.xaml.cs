@@ -156,6 +156,8 @@ namespace PathFinderWPF
                     }
                 }
             }
+
+            MessageBox.Show("Path could not be established!");
         }
 
         /// <summary>
