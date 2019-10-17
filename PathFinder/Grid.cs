@@ -58,7 +58,7 @@ namespace PathFinderWPF
             {
                 for (var column = 0; column < column_length; column++)
                 {
-                    // distance when -1 means Infinite distance
+                    // Set type to walkable to every cell
                     var type = ButtonType.Walkable;
 
                     // Set type to start when cell is a start cell
@@ -69,7 +69,6 @@ namespace PathFinderWPF
                     if (column == endCell.column && row == endCell.row)
                         type = ButtonType.End;
 
-                    // Add a free cell
                     cells[row, column] = new Cell(column, row, type);
                 }
             }
