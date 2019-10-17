@@ -94,7 +94,6 @@ namespace PathFinderWPF
         /// <param name="e">The events of the click</param>
         private void FindPath(object sender, RoutedEventArgs e)
         {
-
             findPathAttempt++;
 
             Cell startCell = grid.cells[grid.startCell.row, grid.startCell.column];
@@ -103,12 +102,11 @@ namespace PathFinderWPF
             // contains cells that may lead to end cell
             var openSet = new List<Cell>();
 
-            // contains cells 
-            var closedSet = new HashSet<Cell>();
-
             // contains cells whose costs were calculated
             // and either will be used for path or not
             // depending of the values of the costs
+            var closedSet = new HashSet<Cell>();
+            
             openSet.Add(startCell);
 
             while (openSet.Count > 0)
@@ -128,6 +126,7 @@ namespace PathFinderWPF
                 closedSet.Add(currentCell);
 
                 // path found
+                // animate the UI and return
                 if (currentCell == endCell || currentCell.type == ButtonType.End)
                 {
                     BuildPathAndAnimateUI(startCell, endCell);
@@ -142,7 +141,7 @@ namespace PathFinderWPF
                     if (!neighbour.IsCellWalkable || closedSet.Contains(neighbour))
                         continue;
 
-                    int newCostToNeighbour = currentCell.gCost + grid.getDistanceBetweenCells(currentCell, neighbour);
+                    var newCostToNeighbour = currentCell.gCost + grid.getDistanceBetweenCells(currentCell, neighbour);
 
                     if (newCostToNeighbour < neighbour.gCost || !openSet.Contains(neighbour))
                     {
@@ -187,19 +186,22 @@ namespace PathFinderWPF
             foreach (Cell cell in grid.cells)
             {
                 if (cell != grid.startCell && cell != grid.endCell)
-                {
                     cell.type = ButtonType.Walkable;
-                }
             }
 
             FindPathButton.Content = "Find Path";
             ResetButton.Content = "Reset";
         }
 
+        /// <summary>
+        /// First builds the path
+        /// Than colors the buttons that build the path
+        /// </summary>
+        /// <param name="startCell"></param>
+        /// <param name="endCell"></param>
         private void BuildPathAndAnimateUI(Cell startCell, Cell endCell)
         {
-            // Create a path list so we know what cells
-            // to animate
+            // Create a path list so we know what cells to animate
             var path = grid.RetracePath(startCell, endCell);
 
             foreach (Cell cell in grid.cells)
@@ -208,8 +210,7 @@ namespace PathFinderWPF
                 {
                     if (path.Contains(cell))
                     {
-                        // Removing end cell from path
-                        // so it doesnt get animated
+                        // Removing end cell from path so it doesnt get animated
                         path.Remove(endCell);
 
                         foreach (Button button in buttons)
