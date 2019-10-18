@@ -2,7 +2,6 @@
 {
     public class Cell
     {
-
         /// <summary>
         /// Holds the column of the row
         /// </summary>

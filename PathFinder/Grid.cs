@@ -95,14 +95,14 @@ namespace PathFinderWPF
         {
             var neighbours = new List<Cell>();
 
-            for (int row = -1; row <= 1; row++)
+            for (var row = -1; row <= 1; row++)
             {
-                for (int column = -1; column <= 1; column++)
+                for (var column = -1; column <= 1; column++)
                 {
                     if (row == 0 && column == 0) continue;
 
-                    int checkRow = cell.row + row;
-                    int checkColumn = cell.column + column;
+                    var checkRow = cell.row + row;
+                    var checkColumn = cell.column + column;
 
                     if (checkRow >= 0 && checkRow < row_length && checkColumn >= 0 && checkColumn < column_length)
                         neighbours.Add(cells[checkRow, checkColumn]);
